@@ -1,0 +1,9 @@
+ ##List directories to backup
+ /root
+ /etc
+ /var
+ /data
+ /usr/local
+ /boot/efi
+ /boot
+
